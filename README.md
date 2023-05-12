@@ -1,4 +1,6 @@
-<img src="https://cdn.dribbble.com/users/3853792/screenshots/13895749/media/46ffa94913ca5ace0d8b43eb3ffe85c7.png?compress=1&resize=400x300&vertical=top" width="100%" class="center" >
+<p align="center" width="100%">
+    <img width="50%" src="https://cdn.dribbble.com/users/3853792/screenshots/13895749/media/46ffa94913ca5ace0d8b43eb3ffe85c7.png?compress=1&resize=400x300&vertical=top">
+</p>
 <h1 align="center">Hi 👋, I'm Tooba Abdul Razzaq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
