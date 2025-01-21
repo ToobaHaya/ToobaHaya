@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tooba</h1>
 <h3 align="center">A passionate Quantum developer from Pakistan</h3>
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fhw7AOH7e0zL4-ikn5NMGw.png" width ="100%" /> </p>
+<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fhw7AOH7e0zL4-ikn5NMGw.png" width ="70%" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toobahaya" alt="toobahaya" /></a> </p>
 
