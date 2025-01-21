@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tooba</h1>
 <h3 align="center">A passionate Quantum developer from Pakistan</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=toobahaya&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fijcsmc.com%2Findex.php%2Fexploring-the-exciting-world-of-quantum-computing%2F&psig=AOvVaw2sN24aZ4ZZncMAhGZDZqqV&ust=1737542462927000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJClhZ7QhosDFQAAAAAdAAAAABAE)" alt="toobahaya" /> </p>
+<p align="left"> <img src="[[https://komarev.com/ghpvc/?username=toobahaya&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fijcsmc.com%2Findex.php%2Fexploring-the-exciting-world-of-quantum-computing%2F&psig=AOvVaw2sN24aZ4ZZncMAhGZDZqqV&ust=1737542462927000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJClhZ7QhosDFQAAAAAdAAAAABAE)](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fhw7AOH7e0zL4-ikn5NMGw.png)" alt="toobahaya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toobahaya" alt="toobahaya" /></a> </p>
 
